@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestLinkonApi</string>
+    <string name="textFromAPI">Text from Linkon API</string>
+</resources>
